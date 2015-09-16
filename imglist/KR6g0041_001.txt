@@ -1,0 +1,5 @@
+001-1118c00	TKD 14-0056a	buddhist/K-koreana/14-tif/0000-0099/14_0056_A.TIF
+001-1119a07	TKD 14-0056b	buddhist/K-koreana/14-tif/0000-0099/14_0056_B.TIF
+001-1119a28	TKD 14-0056c	buddhist/K-koreana/14-tif/0000-0099/14_0056_C.TIF
+001-1119a00	T 001-1119a	buddhist/T-taisho/T12/11/T12-1119.png
+001-1119b00	T 001-1119b	buddhist/T-taisho/T12/11/T12-1119.png
