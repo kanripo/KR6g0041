@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:05:06.017043
+#+DATE: 2015-08-30 20:05:07.212226
 #+TITLE: 佛說法滅盡經
 #+PROPERTY: CBETA_ID T12n0396
 #+PROPERTY: ID KR6g0041
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 396
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6g0041_T_000-1118c>¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6g0041_T_001-1118c> ¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.396¶
-
- 《佛說法滅盡經》¶
+No. 396¶
+《佛說法滅盡經》¶
 ¶
 僧祐錄中失譯經人名今附宋錄¶
 
@@ -65,8 +64,7 @@ No.396¶
 「法欲滅時，女人精進，¶
 恒作功德；男子懈慢，不用法語，眼見沙門如¶
 視糞土，無有信心。法將殄沒，登爾之時諸天¶
-泣淚。水旱不調、五穀不熟，疫氣流行死亡者¶
-眾。人民勤苦，縣官計剋，不順道理，皆思樂¶
+泣淚。水旱不調、五穀不熟，疫氣流行死亡者眾。人民勤苦，縣官計剋，不順道理，皆思樂¶
 亂。惡人轉多如海中沙，善者甚少若一、若二。¶
 
 「劫欲盡故，日月轉短、人命轉促。四十頭白，¶
